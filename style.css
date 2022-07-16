@@ -333,6 +333,10 @@ body {
     align-items: center;
 }
 
+.banner-box {
+    line-height: 2.8;
+}
+
 .footer p {
     font-size: 1.48rem;
     letter-spacing: .5px;
